@@ -1,5 +1,9 @@
 # Bitcoin_Prediction_using_ML_Algos
-Bitcoin price prediction using following forecasting tool, ML Algorithms and Neural Networks (with their comparative Study):
+Bitcoin price prediction using following forecasting tool, ML Algorithms and Neural Networks (with their comparative Study:
+
+## Business Problem
+
+
 
 Preview : Facebook-Prophet outperforms ARIMAX, XGBOOST and LSTM
 
