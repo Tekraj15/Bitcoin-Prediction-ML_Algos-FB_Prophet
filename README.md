@@ -3,7 +3,9 @@ Bitcoin price prediction using following forecasting tool, ML Algorithms and Neu
 
 ## Business Problem
 
+## Data Preparation
 
+## Model Prototyping
 
 Preview : Facebook-Prophet outperforms ARIMAX, XGBOOST and LSTM
 
